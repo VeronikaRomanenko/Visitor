@@ -1,0 +1,7 @@
+D:\Вероника Романенко\Visitor\Visitor\bin\Debug\Visitor.exe.config
+D:\Вероника Романенко\Visitor\Visitor\bin\Debug\Visitor.exe
+D:\Вероника Романенко\Visitor\Visitor\bin\Debug\Visitor.pdb
+D:\Вероника Романенко\Visitor\Visitor\obj\Debug\Visitor.csprojAssemblyReference.cache
+D:\Вероника Романенко\Visitor\Visitor\obj\Debug\Visitor.csproj.CoreCompileInputs.cache
+D:\Вероника Романенко\Visitor\Visitor\obj\Debug\Visitor.exe
+D:\Вероника Романенко\Visitor\Visitor\obj\Debug\Visitor.pdb
